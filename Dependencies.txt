@@ -1,0 +1,4 @@
+pip install llama-index faiss-cpu
+pip install sentence-transformers  
+pip install llama-index-vector-stores-faiss
+pip install llama-index-llms-ollama llama-index-embeddings-huggingface
